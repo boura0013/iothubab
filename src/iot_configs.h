@@ -8,7 +8,7 @@
  * WiFi setup
  */
 #define IOT_CONFIG_WIFI_SSID            "WIFI SSD"
-#define IOT_CONFIG_WIFI_PASSWORD        "WIFI PSWRD"
+#define IOT_CONFIG_WIFI_PASSWORD        "WIFI PASSWORD"
 
 /**
  * IoT Hub Device Connection String setup
