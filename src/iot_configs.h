@@ -7,8 +7,8 @@
 /**
  * WiFi setup
  */
-#define IOT_CONFIG_WIFI_SSID            "BG-HOME"
-#define IOT_CONFIG_WIFI_PASSWORD        "bghome1304!"
+#define IOT_CONFIG_WIFI_SSID            "WIFI SSD"
+#define IOT_CONFIG_WIFI_PASSWORD        "WIFI PSWRD"
 
 /**
  * IoT Hub Device Connection String setup
@@ -16,7 +16,7 @@
  * navigating to IoT Devices tab on the left, and creating (or selecting an existing) IoT Device. 
  * Then click on the named Device ID, and you will have able to copy the Primary or Secondary Device Connection String to this sample.
  */
-#define DEVICE_CONNECTION_STRING    "xUOGWm8n7JeHzSgjPB/S/6DZhnn7mQm2unbwnuQJMbI="
+#define DEVICE_CONNECTION_STRING    "xxxx"
 
 // The protocol you wish to use should be uncommented
 //
